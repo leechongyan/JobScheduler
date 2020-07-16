@@ -41,9 +41,7 @@ app.*.map.json
 
 # Exceptions to above rules.
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
-<<<<<<< HEAD
 
 # Firebase Configuration
 android/app/google-services.json
-=======
->>>>>>> 8f52d4d9df47acc928772710289f51871c7d2792
+
